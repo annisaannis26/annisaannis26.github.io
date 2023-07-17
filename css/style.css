@@ -86,7 +86,7 @@ width:auto
     border-bottom:1px dotted blue 
     } 
     #kiri a:hover { background:blue; color:white } 
-    #konten, #biodata, #riwayat_pendidikan, #riwayat_pekerjaan { 
+    #konten { 
     background-color:white; 
     width:690px; 
     height:auto; 
@@ -94,7 +94,34 @@ width:auto
     padding:20px 20px 20px 20px; 
     float:right; 
     box-shadow:0 0 10px rgba(0,0,0,.25) 
-    } 
+    }
+#biodata { 
+    background-color:white; 
+    width:690px; 
+    height:auto; 
+    margin:0 0 20px; 
+    padding:20px 20px 20px 20px; 
+    float:right; 
+    box-shadow:0 0 10px rgba(0,0,0,.25) 
+    }
+#riwayatpendidikan{ 
+    background-color:white; 
+    width:690px; 
+    height:auto; 
+    margin:0 0 20px; 
+    padding:20px 20px 20px 20px; 
+    float:right; 
+    box-shadow:0 0 10px rgba(0,0,0,.25) 
+    }
+#riwayatpekerjaan { 
+    background-color:white; 
+    width:690px; 
+    height:auto; 
+    margin:0 0 20px; 
+    padding:20px 20px 20px 20px; 
+    float:right; 
+    box-shadow:0 0 10px rgba(0,0,0,.25) 
+    }
     .posttitle { 
     text-decoration:none; 
     font-size:30px; 

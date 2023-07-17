@@ -86,7 +86,7 @@ width:auto
     border-bottom:1px dotted blue 
     } 
     #kiri a:hover { background:blue; color:white } 
-    #konten { 
+    #konten, #biodata, #riwayat_pendidikan, #riwayat_pekerjaan { 
     background-color:white; 
     width:690px; 
     height:auto; 
